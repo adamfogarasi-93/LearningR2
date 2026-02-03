@@ -1,0 +1,24 @@
+---
+title: "Reproducible Document"
+author: "rostools"
+format: html
+editor: visual
+---
+```{r setup}
+library(tidyverse)
+```
+
+## Writing R code
+2+2
+```{r}
+2+2
+```
+## About me 
+- Adam Phd student/KU
+1. Adam Phd Student/KU
+**Climber** *Route Setter*
+
+## Simple Code
+```{r}
+3*3
+```
