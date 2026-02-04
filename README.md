@@ -5,6 +5,8 @@ Adam Fogarasi
 
 # LearningR2:
 
+Hi, I am Adam 
+
 TODO: Give a brief description of what your project is about
 
 This project...
